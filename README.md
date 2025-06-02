@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @bonny2long
-- 👀 I’m interested in Anime and Music
-- 🌱 I’m currently learning Node Js
-- 💞️ I’m looking to collaborate on Front End Js Projects
+- 👀 I’m interested in Books and Music
+- 🌱 I’m currently learning Front-end tech
+- 💞️ I’m looking to collaborate on Full-stack projects
 - 📫 How to reach me @bonnymak@icloud.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I have great vinyl and cd collection
+
 
 <!---
 bonny2long/bonny2long is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
